@@ -1,0 +1,22 @@
+word = [
+    "apple", "brave", "candy", "dairy", "eagle", "flame", "grape", "happy", "ideal", "jolly",
+    "karma", "lemon", "mango", "noble", "ocean", "piano", "quiet", "raven", "sunny", "tiger",
+    "umbra", "vivid", "whale", "youth", "brain", "amber", "baker", "charm", "dream", "eager",
+    "fairy", "globe", "honor", "ivory", "jumpy", "limbo", "lunar", "magic", "novel", "olive",
+    "party", "queen", "rider", "sugar", "trust", "urban", "vigor", "wiser", "yield", "zesty",
+    "acorn", "beach", "cloud", "dance", "ember", "fancy", "glory", "honey", "image", "joker",
+    "kayak", "liver", "mirth", "nifty", "opera", "plume", "quirk", "ropey", "scout", "tulip",
+    "unite", "vowel", "wagon", "yearn", "right", "angle", "bloom", "cider", "dwell", "elbow",
+    "frost", "grasp", "haste", "infer", "jumbo", "koala", "latch", "merit", "nasal", "overt",
+    "penny", "quilt", "rural", "swoop", "truce", "under", "vivid", "waltz", "yummy", "azure",
+    "adore", "bison", "crisp", "dandy", "epoch", "flour", "glint", "hound", "irate", "jolly",
+    "kneel", "lodge", "moody", "nylon", "orbit", "purse", "quake", "rigid", "shiny", "trend",
+    "upset", "valor", "whisk", "yodel", "zebra", "ample", "beads", "cheer", "dough", "evoke",
+    "fable", "giddy", "humid", "inner", "juice", "kneed", "leash", "mince", "niece", "prong",
+    "pinky", "quirk", "royal", "slope", "tasty", "unity", "vault", "witty", "yogic", "wight",
+    "after", "bumpy", "chime", "drape", "eagle", "frown", "grain", "hotel", "icing", "jelly",
+    "knoty", "lumen", "mouse", "north", "oasis", "plush", "quill", "retro", "spine", "thump",
+    "usher", "vowel", "wager", "yodel", "zippo", "arrow", "blush", "chess", "dizzy", "ember",
+    "flick", "gravy", "hatch", "handy", "jumbo", "kudos", "lapse", "mirth", "nudge", "ocean",
+    "grasp", "charm", "bloom", "swift", "crave", "merry", "glide", "spout", "brisk", "latch"
+]
